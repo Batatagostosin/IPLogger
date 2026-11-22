@@ -5,7 +5,7 @@ import requests
 app = Flask(__name__)
 
 def send_ip(ip, date):
-    webhook_url = ""
+    webhook_url = "" # Replace with your actual webhook URL
 
     data = {
         "content": "",
