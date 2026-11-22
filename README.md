@@ -13,4 +13,4 @@ A Python script that retrieves an incoming client IP address, records the detect
 ## Requirements
 
 - Python 3.x
-- Dependencies listed in `requirements.txt` (for example, `requests` or `flask` if serving an HTTP endpoint)
+- Dependencies listed in `iplogger.py` (for example, `requests` or `flask` if serving an HTTP endpoint)
